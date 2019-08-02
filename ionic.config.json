@@ -1,0 +1,7 @@
+{
+  "name": "ProApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
